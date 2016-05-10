@@ -1,0 +1,15 @@
+{
+  "name": "Asteroids",
+  "description": "The classic asteroids game for Firefox",
+  "launch_path": "/index.html",
+  "icons": {
+    
+    "128": "/img/Asteroids.jpg"
+  },
+  "developer": {
+    "name": "David Banu",
+    "url": "http://www.davidbanu.com"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true }
+}
