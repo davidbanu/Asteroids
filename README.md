@@ -1,7 +1,7 @@
 #Asteroids
 
 ![alttag](https://github.com/davidbanu/Asteroids/blob/master/asteroids1.png)
-![alttag](https://github.com/davidbanu/Asteroids/blob/master/asteroids2.png)
+![alttag](https://github.com/davidbanu/Asteroids/blob/master/Asteroids2.png)
 ![alttag](https://github.com/davidbanu/Asteroids/blob/master/asteroids3.png)
 
 ### Synopsis
